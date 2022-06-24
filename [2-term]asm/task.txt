@@ -1,0 +1,1 @@
+Solves for "guess code" contest - you have ASM-codes and the task is to send source C-code
